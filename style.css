@@ -1,0 +1,14 @@
+.screen_container{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+	background:#fff url(./Resources/bulletBackground.jpg) center center fixed no-repeat;
+	background-size: cover;
+    overflow: hidden;
+}
+.screen_toolbar{
+    width: 600px;
+    margin: 20px auto;
+    text-align: center;
+}
